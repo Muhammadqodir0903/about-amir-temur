@@ -54,7 +54,7 @@ function App() {
           <FormatAlignJustify  className="btn"/>
         </ToggleButton>
       </div>
-      <h1 align="center">Barchart</h1>
+      <h1 align="center">BarChart</h1>
       <hr />
       <BarChart
       series={[
